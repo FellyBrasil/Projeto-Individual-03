@@ -1,314 +1,302 @@
 {
-    "filmes":[
-        {
-        "id": 1,
-        "fil_nome":"fil 1",
-        "nome": "Jurassic Park - Parque dos Dinossauros",
-        "genero":"Ficção científica/Ação",
-        "direcao":"Steven Spielberg",
-        "pais":"EUA",
-        "distribuicao_producao":"Universal Pictures/Amblin Entertainment",
-        "ano_de_lancamento": 1993,
-        "duracao_do_filme": "2h 7m"
-        },
-        {
-            "id": 2,
-            "fil_nome":"fil 2",
-            "nome": "Avatar: O Caminho da Água",
-            "genero":"Ficção científica/Ação",
-            "direcao":"James Cameron",
-            "pais":"EUA",
-            "distribuicao_producao":"Lightstorm Entertainment/20th Century Studios",
-            "ano_de_lancamento": 2022,
-            "duracao_do_filme": "3h 10m"
-            },
-            {
-                "id": 3,
-                "fil_nome":"fil 3",
-                "nome": "Pantera Negra: Wakanda Para Sempre",
-                "genero":"Ação/Aventura",
-                "direcao":"Ryan Coogler",
-                "pais":"EUA",
-                "distribuicao_producao":"Marvel Studios/Walt Disney Studios Motion Pictures",
-                "ano_de_lancamento": 2022,
-                "duracao_do_filme": "2h 41m"
-                },
-                {
-                    "id": 4,
-                    "fil_nome":"fil 4",
-                    "nome": "Força Aérea Um",
-                    "genero":"Ação/Thriller",
-                    "direcao":"Wolfgang Petersen",
-                    "pais":"EUA",
-                    "distribuição/produçã0":"Buena Vista International/Columbia Pictures/Beacon Pictures",
-                    "ano_de_lancamento": 1997,
-                    "duracao_do_filme": "2h 5m"
-                    },
-                    {
-                        "id": 5,
-                        "fil_nome":"fil 5",
-                        "nome": "O Inferno de Dante",
-                        "genero":"Thriller/Ação",
-                        "direcao":"Roger Donaldson",
-                        "pais":"EUA",
-                        "distribuicao_producao":"Universal Pictures/Valhalla Entertainment",
-                        "ano_de_lancamento": 1997,
-                        "duracao_do_filme": "1h 49m"
-                        },
-                        {
-                            "id": 6,
-                            "fil_nome":"fil 6",
-                            "nome": "O Enigma do Horizonte",
-                            "genero":"Terror/Ficção científica",
-                            "direcao":"Paul W. S. Anderson",
-                            "pais":"EUA/UK",
-                            "distribuicao_producao":"Paramount Pictures/Impact Pictures",
-                            "ano_de_lancamento": 1997,
-                            "duracao_do_filme": "1h 36m"
-                            },
-                            {
-                                "id": 7,
-                                "fil_nome":"fil 7",
-                                "nome": "Tropas Estelares",
-                                "genero":"Ficção científica/Ação",
-                                "direcao":"Paul Verhoeven",
-                                "pais":"EUA",
-                                "distribuicao_producao":"TriStar Pictures/Touchstone Pictures",
-                                "ano_de_lancamento": 1997,
-                                "duracao_do_filme": "2h 9m"
-                                },
-                                {
-                                    "id": 8,
-                                    "fil_nome":"fil 8",
-                                    "nome": "Caçadores de Mentes",
-                                    "genero":"Thriller/Crime",
-                                    "direcao":"Renny Harlin",
-                                    "pais":"EUA",
-                                    "distribuicao_producao":"Dimension Films/Nordisk Film",
-                                    "ano_de_lancamento": 1998,
-                                    "duracao_do_filme": "2h 30m"
-                                    },
-                                    {
-                                        "id": 9,
-                                        "fil_nome":"fil 9",
-                                        "nome": "Godzilla",
-                                        "genero":"Ficção científica/Ação",
-                                        "direcao":"Roland Emmerich",
-                                        "pais":"EUA",
-                                        "distribuicao_producao":"TriStar Pictures/Toho Co.Ltd.",
-                                        "ano_de_lancamento": 1998,
-                                        "duracao_do_filme": "2h 19m"
-                                        },
-                                        {
-                                            "id": 10,
-                                            "fil_nome":"fil 10",
-                                            "nome": "Identidade",
-                                            "genero":"Thriller/Mistério",
-                                            "direcao":"James Mangold",
-                                            "pais":"EUA",
-                                            "distribuicao_producao":"Columbia Pictures",
-                                            "ano_de_lancamento": 2003,
-                                            "duracao_do_filme": "1h 31m"
-                                            },
-                                            {
-                                                "id": 11,
-                                                "fil_nome":"fil 11",
-                                                "nome": "Titanic: 110th Anniversary",
-                                                "genero":"Romance/Drama",
-                                                "direcao":"James Cameron",
-                                                "pais":"EUA",
-                                                "distribuicao_producao":"Paramount Pictures/20th Century Fox",
-                                                "ano_de_lancamento": 1997,
-                                                "duracao_do_filme": "3h 14m"
-                                                }
-    ],
-    "produtos": [
-        {
-            "id": 1,
-             "Pro_nome": "Pepsi",
-             "valor": "11,00 reias",
-             "ml": "1L"
-        },
-        {
-            "id": 2,
-             "Pro_nome": "Pepsi",
-             "valor": "6,00 reias",
-             "ml": "500ml"
-        },
-        {
-            "id": 3,
-             "Pro_nome": "Coca-cola",
-             "valor": "11,00 reias",
-             "ml": "1L"
-        },
-        {
-            "id": 4,
-             "Pro_nome": "Coca-cola",
-             "valor": "6,00 reias",
-             "ml": "500ml"
-        },
-            {
-                "id": 5,
-                 "Pro_nome": "Pipoca pequena",
-                 "valor": "8 Reias",
-                 "quantidade": "1,5L"
-            },
-            {
-                "id": 6,
-                 "Pro_nome": "Pipoca média",
-                 "valor": "11,99 Reias",
-                 "quantidade": "2,1L"
-            },
-            {
-                "id": 7,
-                 "Pro_nome": "Pipoca grande",
-                 "valor": "16,99 Reias",
-                 "quantidade": "3L"
-            },
-            {
-                "id": 8,
-                 "Pro_nome": "promocao",
-                 "combo":"Bebida,Pipoca,Brinde",
-                 "valor": "55,00 Reias",
-                 "brinde": "2 Poster"
-            },
-            {
-                "id": 9,
-                 "Pro_nome": "Mega-Combo",
-                 "combo":"Action-Figure,Bebida-Pipoca,Ingresso,Camisa,Brinde",
-                 "valor": "320,00 Reias",
-                 "brinde": "Item Misterios"
-            }
-
-
-
-
-
-    ],
-    "cultureshop":[
-        {
-            "id": 1,
-             "culture_nome": "produtos feitos de fã para fã",
-             "combos": "Combo Camiseta Pré - Estreia Pantera Negra: Wakanda Para Sempre + 5 Cards Vingadores",
-             "brinde_do_combo": "Caneca do Pantera Negra: Wakanda Para Sempre",
-             "ingresso": "incluso no combo",
-             "valor_unico":"R$ 99,90 reias"
-        },
-        {
-            "id": 2,
-             "culture_nome": "produtos feitos de fã para fã",
-             "casaco": "casaco do Jurassic Park",
-             "promocao": "2 camisa do Jurassic Park por 80% do preço",
-             "cartao": "parcelamento em até 6x",
-             "valor_unico":"R$ 96,00 reias",
-             "valor_com_desconto":"R$ 60,00 reias"
-        }, 
-        {
-            "id": 3,
-             "culture_nome": "produtos feitos de fã para fã",
-             "camisa": "camisa do Godzilla",
-             "promocao": "2 camisa do Godzilla por 60% do preço",
-             "cartao": "parcelamento em até 6x",
-             "valor_unico":"R$ 83,88 reias",
-             "valor_com_desconto":"R$ 69,00 reias"
-        },
-        {
-            "id": 4,
-             "culture_nome": "produtos feitos de fã para fã",
-             "camisa": "camisa do Avatar: O Caminho da Água",
-             "promocao": "2 camisa do Avatar: O Caminho da Água por 70% do preço",
-             "cartao": "parcelamento em até 6x",
-             "valor_unico":"R$ 100,86 reias",
-             "valor_com_desconto":"R$ 79,80 reias"
-        },
-        {
-            "id": 5,
-             "culture_nome": "produtos feitos de fã para fã",
-             "combos": "camisa do Tropas Estelares + poster do proprio filme",
-             "brinde_do_combo": "caneca do Tropas Estelares",
-             "ingresso": "incluso no combo",
-             "valor_unico":"99,90 reias"
-        },
-        {
-            "id": 6,
-             "culture_nome": "produtos feitos de fã para fã",
-             "combos": "Casaco do Avatar: O Caminho da Água + Quadro emoldurado do proprio filme",
-             "brinde_do_combo": "caneca do Avatar: O Caminho da Água + Balde de pipoca tema do filme",
-             "ingresso": "incluso no combo",
-             "cartao": "parcelamento em até 6x",
-             "valor_unico":"199,90 reias"
-        }
-
-
-
-
-
-    ],
-    "Cinema":[
-        {
-            "id": 1,
-            "cine_nome":"Park Shopping",
-             "localizacao": "Estr. do Monteiro, 1200 - Campo Grande, Rio de Janeiro - RJ",
-             "horario_dos_filmes": "a partir das 13h",
-             "assentos": "60 comuns, 44 vips, 30 preferencias",
-             "valor_do_ingressso": "Meia 11,00 reais, Inteira 21,00 reais",
-             "dub_leg":"Dub --:--h, Leg 18:00h"
-        },
-        {
-            "id": 2,
-            "cine_nome":"Espaco Itau de Cinema - Pompeia",
-             "localizacao": "Rua Palestra Itália, 500 - Água Branca",
-             "horario_dos_filmes": "a partir das 13:30h",
-             "assentos": "40 comuns, 40 vips, 40 preferencias",
-             "valor_do_ingresso": "Meia 19,00 reis, Inteira 27,00 reais",
-             "dub_leg":"Dub --:--h, Leg 17:00h"
-        },
-        {
-            "id": 3,
-            "cine_nome":"Cine Marquise",
-             "localizacao": "Avenida Paulista, 2073 - Bela Vista",
-             "horario_dos_filmes": "a partir das 13h",
-             "assentos": "43 comuns, 43 vips, 43 preferencias",
-             "valor_do_ingresso": "Meia 19,90 reais, Inteira 33,00 reais",
-             "dub_leg":"Dub --:--h, Leg 19:00h"
-        },
-        {
-            "id": 4,
-            "cine_nome":"Cinema Reserva Cultural Sao Paulo",
-             "localizacao": "Av. Paulista, 900 - Bela Vista",
-             "horario_dos_filmes": "a partir das 13h",
-             "assentos": "48 comuns, 48 vips, 48 preferencias",
-             "valor_do_ingresso": "Meia 22,00 reais, Inteira 48,00 reais",
-             "dub_leg":"Dub --:--h, Leg 16:00h"
-        },
-        {
-            "id": 5,
-            "cine_nome":"Shopping Leblon",
-             "localizacao": "Av. Afrânio de Melo Franco, 290 - Leblon, Rio de Janeiro",
-             "horario_dos_filmes": "a partir das 13h",
-             "assentos": "49 comuns, 43 vips, 44 preferencias",
-             "valor_do_ingresso": "Meia 17,90 reais, Inteira 27,80 reais",
-             "dub_leg":"Dub --:--h, Leg 19:00h"
-        },
-        {
-            "id": 6,
-            "cine_nome":"Botafogo Praia Shopping",
-             "localizacao": "Praia de Botafogo, 400 - Botafogo, Rio de Janeiro - RJ",
-             "horario_dos_filmes": "a partir de 12h",
-             "assentos": "58 comuns, 48 vips, 48 preferencias",
-             "valor_do_ingresso":"Meia 18,90 reais, Inteira 29,80 reais",
-             "dub_leg":"Dub --:--h, Leg 20:00h"
-        },
-        {
-            "id": 7,
-            "cine_nome":"West Shopping",
-             "localizacao": "Estr. do Mendanha, 555 - Campo Grande, Rio de Janeiro - RJ",
-             "horario_dos_filmes": "a partir de 14h",
-             "assentos": "38 comuns, 25 vips, 28 preferencias",
-             "valor_do_ingresso":"Meia 10,90 reais, Inteira 20,90 reais",
-             "dub_leg":"Dub --:--h, Leg 17:20h"
-        }
-    ]
+  "filmes": [
+    {
+      "id": 1,
+      "fil_nome": "fil 1",
+      "nome": "Jurassic Park - Parque dos Dinossauros",
+      "genero": "Ficção científica/Ação",
+      "direcao": "Steven Spielberg",
+      "pais": "EUA",
+      "distribuicao_producao": "Universal Pictures/Amblin Entertainment",
+      "ano_de_lancamento": 1993,
+      "duracao_do_filme": "2h 7m"
+    },
+    {
+      "id": 2,
+      "fil_nome": "fil 2",
+      "nome": "Avatar: O Caminho da Água",
+      "genero": "Ficção científica/Ação",
+      "direcao": "James Cameron",
+      "pais": "EUA",
+      "distribuicao_producao": "Lightstorm Entertainment/20th Century Studios",
+      "ano_de_lancamento": 2022,
+      "duracao_do_filme": "3h 10m"
+    },
+    {
+      "id": 3,
+      "fil_nome": "fil 3",
+      "nome": "Pantera Negra: Wakanda Para Sempre",
+      "genero": "Ação/Aventura",
+      "direcao": "Ryan Coogler",
+      "pais": "EUA",
+      "distribuicao_producao": "Marvel Studios/Walt Disney Studios Motion Pictures",
+      "ano_de_lancamento": 2022,
+      "duracao_do_filme": "2h 41m"
+    },
+    {
+      "id": 4,
+      "fil_nome": "fil 4",
+      "nome": "Força Aérea Um",
+      "genero": "Ação/Thriller",
+      "direcao": "Wolfgang Petersen",
+      "pais": "EUA",
+      "distribuição/produçã0": "Buena Vista International/Columbia Pictures/Beacon Pictures",
+      "ano_de_lancamento": 1997,
+      "duracao_do_filme": "2h 5m"
+    },
+    {
+      "id": 5,
+      "fil_nome": "fil 5",
+      "nome": "O Inferno de Dante",
+      "genero": "Thriller/Ação",
+      "direcao": "Roger Donaldson",
+      "pais": "EUA",
+      "distribuicao_producao": "Universal Pictures/Valhalla Entertainment",
+      "ano_de_lancamento": 1997,
+      "duracao_do_filme": "1h 49m"
+    },
+    {
+      "id": 6,
+      "fil_nome": "fil 6",
+      "nome": "O Enigma do Horizonte",
+      "genero": "Terror/Ficção científica",
+      "direcao": "Paul W. S. Anderson",
+      "pais": "EUA/UK",
+      "distribuicao_producao": "Paramount Pictures/Impact Pictures",
+      "ano_de_lancamento": 1997,
+      "duracao_do_filme": "1h 36m"
+    },
+    {
+      "id": 7,
+      "fil_nome": "fil 7",
+      "nome": "Tropas Estelares",
+      "genero": "Ficção científica/Ação",
+      "direcao": "Paul Verhoeven",
+      "pais": "EUA",
+      "distribuicao_producao": "TriStar Pictures/Touchstone Pictures",
+      "ano_de_lancamento": 1997,
+      "duracao_do_filme": "2h 9m"
+    },
+    {
+      "id": 8,
+      "fil_nome": "fil 8",
+      "nome": "Caçadores de Mentes",
+      "genero": "Thriller/Crime",
+      "direcao": "Renny Harlin",
+      "pais": "EUA",
+      "distribuicao_producao": "Dimension Films/Nordisk Film",
+      "ano_de_lancamento": 1998,
+      "duracao_do_filme": "2h 30m"
+    },
+    {
+      "id": 9,
+      "fil_nome": "fil 9",
+      "nome": "Godzilla",
+      "genero": "Ficção científica/Ação",
+      "direcao": "Roland Emmerich",
+      "pais": "EUA",
+      "distribuicao_producao": "TriStar Pictures/Toho Co.Ltd.",
+      "ano_de_lancamento": 1998,
+      "duracao_do_filme": "2h 19m"
+    },
+    {
+      "id": 10,
+      "fil_nome": "fil 10",
+      "nome": "Identidade",
+      "genero": "Thriller/Mistério",
+      "direcao": "James Mangold",
+      "pais": "EUA",
+      "distribuicao_producao": "Columbia Pictures",
+      "ano_de_lancamento": 2003,
+      "duracao_do_filme": "1h 31m"
+    },
+    {
+      "id": 11,
+      "fil_nome": "fil 11",
+      "nome": "Titanic: 110th Anniversary",
+      "genero": "Romance/Drama",
+      "direcao": "James Cameron",
+      "pais": "EUA",
+      "distribuicao_producao": "Paramount Pictures/20th Century Fox",
+      "ano_de_lancamento": 1997,
+      "duracao_do_filme": "3h 14m"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "Pro_nome": "Pepsi",
+      "valor": "11,00 reias",
+      "ml": "1L"
+    },
+    {
+      "id": 2,
+      "Pro_nome": "Pepsi",
+      "valor": "6,00 reias",
+      "ml": "500ml"
+    },
+    {
+      "id": 3,
+      "Pro_nome": "Coca-cola",
+      "valor": "11,00 reias",
+      "ml": "1L"
+    },
+    {
+      "id": 4,
+      "Pro_nome": "Coca-cola",
+      "valor": "6,00 reias",
+      "ml": "500ml"
+    },
+    {
+      "id": 5,
+      "Pro_nome": "Pipoca pequena",
+      "valor": "8 Reias",
+      "quantidade": "1,5L"
+    },
+    {
+      "id": 6,
+      "Pro_nome": "Pipoca média",
+      "valor": "11,99 Reias",
+      "quantidade": "2,1L"
+    },
+    {
+      "id": 7,
+      "Pro_nome": "Pipoca grande",
+      "valor": "16,99 Reias",
+      "quantidade": "3L"
+    },
+    {
+      "id": 8,
+      "Pro_nome": "promocao",
+      "combo": "Bebida,Pipoca,Brinde",
+      "valor": "55,00 Reias",
+      "brinde": "2 Poster"
+    },
+    {
+      "id": 9,
+      "Pro_nome": "Mega-Combo",
+      "combo": "Action-Figure,Bebida-Pipoca,Ingresso,Camisa,Brinde",
+      "valor": "320,00 Reias",
+      "brinde": "Item Misterios"
+    }
+  ],
+  "cultureshop": [
+    {
+      "id": 1,
+      "culture_nome": "produtos feitos de fã para fã",
+      "combos": "Combo Camiseta Pré - Estreia Pantera Negra: Wakanda Para Sempre + 5 Cards Vingadores",
+      "brinde_do_combo": "Caneca do Pantera Negra: Wakanda Para Sempre",
+      "ingresso": "incluso no combo",
+      "valor_unico": "R$ 99,90 reias"
+    },
+    {
+      "id": 2,
+      "culture_nome": "produtos feitos de fã para fã",
+      "casaco": "casaco do Jurassic Park",
+      "promocao": "2 camisa do Jurassic Park por 80% do preço",
+      "cartao": "parcelamento em até 6x",
+      "valor_unico": "R$ 96,00 reias",
+      "valor_com_desconto": "R$ 60,00 reias"
+    },
+    {
+      "id": 3,
+      "culture_nome": "produtos feitos de fã para fã",
+      "camisa": "camisa do Godzilla",
+      "promocao": "2 camisa do Godzilla por 60% do preço",
+      "cartao": "parcelamento em até 6x",
+      "valor_unico": "R$ 83,88 reias",
+      "valor_com_desconto": "R$ 69,00 reias"
+    },
+    {
+      "id": 4,
+      "culture_nome": "produtos feitos de fã para fã",
+      "camisa": "camisa do Avatar: O Caminho da Água",
+      "promocao": "2 camisa do Avatar: O Caminho da Água por 70% do preço",
+      "cartao": "parcelamento em até 6x",
+      "valor_unico": "R$ 100,86 reias",
+      "valor_com_desconto": "R$ 79,80 reias"
+    },
+    {
+      "id": 5,
+      "culture_nome": "produtos feitos de fã para fã",
+      "combos": "camisa do Tropas Estelares + poster do proprio filme",
+      "brinde_do_combo": "caneca do Tropas Estelares",
+      "ingresso": "incluso no combo",
+      "valor_unico": "99,90 reias"
+    },
+    {
+      "id": 6,
+      "culture_nome": "produtos feitos de fã para fã",
+      "combos": "Casaco do Avatar: O Caminho da Água + Quadro emoldurado do proprio filme",
+      "brinde_do_combo": "caneca do Avatar: O Caminho da Água + Balde de pipoca tema do filme",
+      "ingresso": "incluso no combo",
+      "cartao": "parcelamento em até 6x",
+      "valor_unico": "199,90 reias"
+    }
+  ],
+  "cinemas": [
+    {
+      "id": 1,
+      "cine_nome": "Park Shopping",
+      "localizacao": "Estr. do Monteiro, 1200 - Campo Grande, Rio de Janeiro - RJ",
+      "horario_dos_filmes": "a partir das 13h",
+      "assentos": "60 comuns, 44 vips, 30 preferencias",
+      "valor_do_ingressso": "Meia 11,00 reais, Inteira 21,00 reais",
+      "dub_leg": "Dub --:--h, Leg 18:00h"
+    },
+    {
+      "id": 2,
+      "cine_nome": "Espaço Itaú de Cinema - Pompeia",
+      "localizacao": "Rua Palestra Itália, 500 - Água Branca",
+      "horario_dos_filmes": "a partir das 13:30h",
+      "assentos": "40 comuns, 40 vips, 40 preferencias",
+      "valor_do_ingresso": "Meia 19,00 reis, Inteira 27,00 reais",
+      "dub_leg": "Dub --:--h, Leg 17:00h"
+    },
+    {
+      "id": 3,
+      "cine_nome": "Cine Marquise",
+      "localizacao": "Avenida Paulista, 2073 - Bela Vista",
+      "horario_dos_filmes": "a partir das 13h",
+      "assentos": "43 comuns, 43 vips, 43 preferencias",
+      "valor_do_ingresso": "Meia 19,90 reais, Inteira 33,00 reais",
+      "dub_leg": "Dub --:--h, Leg 19:00h"
+    },
+    {
+      "id": 4,
+      "cine_nome": "Cinema Reserva Cultural Sao Paulo",
+      "localizacao": "Av. Paulista, 900 - Bela Vista",
+      "horario_dos_filmes": "a partir das 13h",
+      "assentos": "48 comuns, 48 vips, 48 preferencias",
+      "valor_do_ingresso": "Meia 22,00 reais, Inteira 48,00 reais",
+      "dub_leg": "Dub --:--h, Leg 16:00h"
+    },
+    {
+      "id": 5,
+      "cine_nome": "Shopping Leblon",
+      "localizacao": "Av. Afrânio de Melo Franco, 290 - Leblon, Rio de Janeiro",
+      "horario_dos_filmes": "a partir das 13h",
+      "assentos": "49 comuns, 43 vips, 44 preferencias",
+      "valor_do_ingresso": "Meia 17,90 reais, Inteira 27,80 reais",
+      "dub_leg": "Dub --:--h, Leg 19:00h"
+    },
+    {
+      "id": 6,
+      "cine_nome": "Botafogo Praia Shopping",
+      "localizacao": "Praia de Botafogo, 400 - Botafogo, Rio de Janeiro - RJ",
+      "horario_dos_filmes": "a partir de 12h",
+      "assentos": "58 comuns, 48 vips, 48 preferencias",
+      "valor_do_ingresso": "Meia 18,90 reais, Inteira 29,80 reais",
+      "dub_leg": "Dub --:--h, Leg 20:00h"
+    },
+    {
+      "id": 7,
+      "cine_nome": "West Shopping",
+      "localizacao": "Estr. do Mendanha, 555 - Campo Grande, Rio de Janeiro - RJ",
+      "horario_dos_filmes": "a partir de 14h",
+      "assentos": "38 comuns, 25 vips, 28 preferencias",
+      "valor_do_ingresso": "Meia 10,90 reais, Inteira 20,90 reais",
+      "dub_leg": "Dub --:--h, Leg 17:20h"
+    }
+  ]
 }
-
-
