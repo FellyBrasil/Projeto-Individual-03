@@ -121,6 +121,17 @@
       "ano_de_lancamento": 1997,
       "duracao_do_filme": "3h 14m"
     }
+    {
+      "id": 12,
+      "fil_nome": "fil 12",
+      "nome": "Lilo, Lilo, Crocodilo",
+      "genero": "Musical/Comédia",
+      "direcao": "James Cameron",
+      "pais": "EUA",
+      "distribuicao_producao": "Sony Pictures/Columbia Pictures",
+      "ano_de_lancamento": 2022,
+      "duracao_do_filme": "1h 46m"
+    }
   ],
   "produtos": [
     {
@@ -241,7 +252,7 @@
       "localizacao": "Estr. do Monteiro, 1200 - Campo Grande, Rio de Janeiro - RJ",
       "horario_dos_filmes": "a partir das 13h",
       "assentos": "60 comuns, 44 vips, 30 preferencias",
-      "valor_do_ingressso": "Meia 11,00 reais, Inteira 21,00 reais",
+      "valor_do_ingressso": "Meia 10,50 reais, Inteira 21,00 reais",
       "dub_leg": "Dub --:--h, Leg 18:00h"
     },
     {
@@ -250,7 +261,7 @@
       "localizacao": "Rua Palestra Itália, 500 - Água Branca",
       "horario_dos_filmes": "a partir das 13:30h",
       "assentos": "40 comuns, 40 vips, 40 preferencias",
-      "valor_do_ingresso": "Meia 19,00 reis, Inteira 27,00 reais",
+      "valor_do_ingresso": "Meia 13,50 reis, Inteira 27,00 reais",
       "dub_leg": "Dub --:--h, Leg 17:00h"
     },
     {
@@ -259,7 +270,7 @@
       "localizacao": "Avenida Paulista, 2073 - Bela Vista",
       "horario_dos_filmes": "a partir das 13h",
       "assentos": "43 comuns, 43 vips, 43 preferencias",
-      "valor_do_ingresso": "Meia 19,90 reais, Inteira 33,00 reais",
+      "valor_do_ingresso": "Meia 16,50 reais, Inteira 33,00 reais",
       "dub_leg": "Dub --:--h, Leg 19:00h"
     },
     {
@@ -268,7 +279,7 @@
       "localizacao": "Av. Paulista, 900 - Bela Vista",
       "horario_dos_filmes": "a partir das 13h",
       "assentos": "48 comuns, 48 vips, 48 preferencias",
-      "valor_do_ingresso": "Meia 22,00 reais, Inteira 48,00 reais",
+      "valor_do_ingresso": "Meia 24,00 reais, Inteira 48,00 reais",
       "dub_leg": "Dub --:--h, Leg 16:00h"
     },
     {
@@ -277,7 +288,7 @@
       "localizacao": "Av. Afrânio de Melo Franco, 290 - Leblon, Rio de Janeiro",
       "horario_dos_filmes": "a partir das 13h",
       "assentos": "49 comuns, 43 vips, 44 preferencias",
-      "valor_do_ingresso": "Meia 17,90 reais, Inteira 27,80 reais",
+      "valor_do_ingresso": "Meia 14,00 reais, Inteira 28,00 reais",
       "dub_leg": "Dub --:--h, Leg 19:00h"
     },
     {
@@ -286,7 +297,7 @@
       "localizacao": "Praia de Botafogo, 400 - Botafogo, Rio de Janeiro - RJ",
       "horario_dos_filmes": "a partir de 12h",
       "assentos": "58 comuns, 48 vips, 48 preferencias",
-      "valor_do_ingresso": "Meia 18,90 reais, Inteira 29,80 reais",
+      "valor_do_ingresso": "Meia 14,40 reais, Inteira 29,80 reais",
       "dub_leg": "Dub --:--h, Leg 20:00h"
     },
     {
@@ -295,8 +306,17 @@
       "localizacao": "Estr. do Mendanha, 555 - Campo Grande, Rio de Janeiro - RJ",
       "horario_dos_filmes": "a partir de 14h",
       "assentos": "38 comuns, 25 vips, 28 preferencias",
-      "valor_do_ingresso": "Meia 10,90 reais, Inteira 20,90 reais",
+      "valor_do_ingresso": "Meia 10,45 reais, Inteira 20,90 reais",
       "dub_leg": "Dub --:--h, Leg 17:20h"
+    }
+    {
+      "id": 8,
+      "cine_nome": "Shopping Cidade Jardim",
+      "localizacao": "Av. Magalhães de Castro, 12.000 - Cidade Jardim, São Paulo - SP",
+      "horario_dos_filmes": "a partir de 13h",
+      "assentos": "58 comuns, 25 vips, 28 preferencias",
+      "valor_do_ingresso": "Meia 18,95 reais, Inteira 37,90 reais",
+      "dub_leg": "Dub --:--h, Leg 16:20h"
     }
   ]
 }
