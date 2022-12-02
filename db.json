@@ -126,7 +126,7 @@
       "fil_nome": "fil 12",
       "nome": "Lilo, Lilo, Crocodilo",
       "genero": "Musical/Comédia",
-      "direcao": "James Cameron",
+      "direcao": "Will Speck/Josh Gordon",
       "pais": "EUA",
       "distribuicao_producao": "Sony Pictures/Columbia Pictures",
       "ano_de_lancamento": 2022,
@@ -243,6 +243,15 @@
       "ingresso": "incluso no combo",
       "cartao": "parcelamento em até 6x",
       "valor_unico": "199,90 reias"
+    },
+    {
+      "id": 7,
+      "culture_nome": "produtos feitos de fã para fã",
+      "combos": "Casaco do Lilo, Lilo, Crocodilo + Quadro emoldurado do proprio filme",
+      "brinde_do_combo": "caneca do Lilo, Lilo, Crocodilo + Balde de pipoca tema do filme",
+      "ingresso": "incluso no combo",
+      "cartao": "parcelamento em até 6x",
+      "valor_unico": "179,90 reias"
     }
   ],
   "cinemas": [
