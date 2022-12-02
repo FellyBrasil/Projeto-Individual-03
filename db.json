@@ -120,7 +120,7 @@
       "distribuicao_producao": "Paramount Pictures/20th Century Fox",
       "ano_de_lancamento": 1997,
       "duracao_do_filme": "3h 14m"
-    }
+    },
     {
       "id": 12,
       "fil_nome": "fil 12",
@@ -308,7 +308,7 @@
       "assentos": "38 comuns, 25 vips, 28 preferencias",
       "valor_do_ingresso": "Meia 10,45 reais, Inteira 20,90 reais",
       "dub_leg": "Dub --:--h, Leg 17:20h"
-    }
+    },
     {
       "id": 8,
       "cine_nome": "Shopping Cidade Jardim",
