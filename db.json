@@ -3,17 +3,20 @@
     {
       "id": 1,
       "fil_nome": "fil 1",
+      "imagem": "imagens/Cards-filme/jurassic-park.png",
       "nome": "Jurassic Park - Parque dos Dinossauros",
       "genero": "Ficção científica/Ação",
       "direcao": "Steven Spielberg",
       "pais": "EUA",
       "distribuicao_producao": "Universal Pictures/Amblin Entertainment",
       "ano_de_lancamento": 1993,
-      "duracao_do_filme": "2h 7m"
+      "duracao_do_filme": "2h 7m",
+      "sinopse": "Os paleontólogos Alan Grant, Ellie Sattler e o matemático Ian Malcolm fazem parte de um seleto grupo escolhido para visitar uma ilha habitada por dinossauros criados a partir de DNA pré-histórico. O idealizador do projeto e bilionário John Hammond garante a todos que a instalação é completamente segura. Mas após uma queda de energia, os visitantes descobrem, aos poucos, que vários predadores ferozes estão soltos e à caça."
     },
     {
       "id": 2,
       "fil_nome": "fil 2",
+      "imagem": "imagens/Cards-filme/avatar-2.png",
       "nome": "Avatar: O Caminho da Água",
       "genero": "Ficção científica/Ação",
       "direcao": "James Cameron",
@@ -25,6 +28,7 @@
     {
       "id": 3,
       "fil_nome": "fil 3",
+      "imagem": "imagens/Cards-filme/pantera_negra_wakanda_forever.png",
       "nome": "Pantera Negra: Wakanda Para Sempre",
       "genero": "Ação/Aventura",
       "direcao": "Ryan Coogler",
@@ -36,6 +40,7 @@
     {
       "id": 4,
       "fil_nome": "fil 4",
+      "imagem": "imagens/Cards-filme/força-aérea-um.png",
       "nome": "Força Aérea Um",
       "genero": "Ação/Thriller",
       "direcao": "Wolfgang Petersen",
@@ -47,6 +52,7 @@
     {
       "id": 5,
       "fil_nome": "fil 5",
+      "imagem": "imagens/Cards-filme/inferno-de-dante.png",
       "nome": "O Inferno de Dante",
       "genero": "Thriller/Ação",
       "direcao": "Roger Donaldson",
@@ -58,6 +64,7 @@
     {
       "id": 6,
       "fil_nome": "fil 6",
+      "imagem": "imagens/Cards-filme/event-horizon.png",
       "nome": "O Enigma do Horizonte",
       "genero": "Terror/Ficção científica",
       "direcao": "Paul W. S. Anderson",
@@ -69,6 +76,7 @@
     {
       "id": 7,
       "fil_nome": "fil 7",
+      "imagem": "imagens/Cards-filme/tropas-estelares.png",
       "nome": "Tropas Estelares",
       "genero": "Ficção científica/Ação",
       "direcao": "Paul Verhoeven",
@@ -80,6 +88,7 @@
     {
       "id": 8,
       "fil_nome": "fil 8",
+      "imagem": "imagens/Cards-filme/caçadores-de-mentes.png",
       "nome": "Caçadores de Mentes",
       "genero": "Thriller/Crime",
       "direcao": "Renny Harlin",
@@ -91,6 +100,7 @@
     {
       "id": 9,
       "fil_nome": "fil 9",
+      "imagem": "imagens/Cards-filme/caçadores-de-mentes.png",
       "nome": "Godzilla",
       "genero": "Ficção científica/Ação",
       "direcao": "Roland Emmerich",
