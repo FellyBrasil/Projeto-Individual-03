@@ -115,7 +115,7 @@
       "distribuicao_producao": "TriStar Pictures/Toho Co.Ltd.",
       "ano_de_lancamento": 1998,
       "duracao_do_filme": "2h 19m",
-      "sinopse": "Um réptil gigante surge em direção a Nova York e provoca destruição por onde passa. Um cientista e aliados entram em ação para investigar o misterio envolvendo esse animal gigantesco".
+      "sinopse": "Um réptil gigante surge em direção a Nova York e provoca destruição por onde passa. Um cientista e aliados entram em ação para investigar o misterio envolvendo esse animal gigantesco"
     },
     {
       "id": 10,
@@ -127,7 +127,7 @@
       "pais": "EUA",
       "distribuicao_producao": "Columbia Pictures",
       "ano_de_lancamento": 2003,
-      "duracao_do_filme": "1h 31m"
+      "duracao_do_filme": "1h 31m",
       "sinopse": "Uma terrível tempestade atinge o deserto e dez pessoas procuram refúgio em um motel isolado. Quando os viajantes ficam presos lá por causa da tempestade, percebem que estão sendo mortos um a um, quem é o assasino?"
     },
     {
@@ -368,4 +368,4 @@
       "dub_leg": "Dub --:--h, Leg 16:20h"
     }
   ]
-}
+}       
