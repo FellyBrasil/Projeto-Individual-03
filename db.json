@@ -11,7 +11,7 @@
       "distribuicao_producao": "Universal Pictures/Amblin Entertainment",
       "ano_de_lancamento": 1993,
       "duracao_do_filme": "2h 7m",
-      "sinopse": "Os paleontólogos Alan Grant, Ellie Sattler e o matemático Ian Malcolm fazem parte de um seleto grupo escolhido para visitar uma ilha habitada por dinossauros criados a partir de DNA pré-histórico. O idealizador do projeto e bilionário John Hammond garante a todos que a instalação é completamente segura. Mas após uma queda de energia, os visitantes descobrem, aos poucos, que vários predadores ferozes estão soltos e à caça."
+      "sinopse": "Grupo escolhido para visitar uma ilha habitada por um novo parque tematico. Mas após uma queda de energia, os visitantes descobrem, aos poucos, que vários predadores ferozes estão soltos e à caça. "
     },
     {
       "id": 2,
@@ -23,7 +23,8 @@
       "pais": "EUA",
       "distribuicao_producao": "Lightstorm Entertainment/20th Century Studios",
       "ano_de_lancamento": 2022,
-      "duracao_do_filme": "3h 10m"
+      "duracao_do_filme": "3h 10m",
+      "sinopse": "Jake Sully e Ney'tiri fazem de tudo para ficarem juntos. No entanto, eles devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve travar uma guerra difícil contra os humanos."
     },
     {
       "id": 3,
@@ -35,7 +36,8 @@
       "pais": "EUA",
       "distribuicao_producao": "Marvel Studios/Walt Disney Studios Motion Pictures",
       "ano_de_lancamento": 2022,
-      "duracao_do_filme": "2h 41m"
+      "duracao_do_filme": "2h 41m",
+      "sinopse": "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa."
     },
     {
       "id": 4,
@@ -47,7 +49,8 @@
       "pais": "EUA",
       "distribuição/produçã0": "Buena Vista International/Columbia Pictures/Beacon Pictures",
       "ano_de_lancamento": 1997,
-      "duracao_do_filme": "2h 5m"
+      "duracao_do_filme": "2h 5m",
+      "sinopse": "O avião presidencial é sequestrado, agora o presidente precisa escolher entre negociar com os terroristas e negar o que pregou, ou decidir não negociar e ver sua família ser assassinada."
     },
     {
       "id": 5,
@@ -59,7 +62,8 @@
       "pais": "EUA",
       "distribuicao_producao": "Universal Pictures/Valhalla Entertainment",
       "ano_de_lancamento": 1997,
-      "duracao_do_filme": "1h 49m"
+      "duracao_do_filme": "1h 49m",
+      "sinopse": "Um O vulcanólogo acredita que o vulcão dormente está prestes a entrar em atividade, Agora resta saber se o título de segundo melhor lugar do mundo para morar será prejudicado pela ameaça da natureza."
     },
     {
       "id": 6,
@@ -71,7 +75,8 @@
       "pais": "EUA/UK",
       "distribuicao_producao": "Paramount Pictures/Impact Pictures",
       "ano_de_lancamento": 1997,
-      "duracao_do_filme": "1h 36m"
+      "duracao_do_filme": "1h 36m",
+      "sinopse": "Em 2047, uma missão de resgate é mandada para encontrar a Event Horizon, uma nave que desapareceu misteriosamente sete anos atrás, quando explorava os limites do sistema solar. Mas um terrivel misterio habita o seu desaparecimento."
     },
     {
       "id": 7,
@@ -83,7 +88,8 @@
       "pais": "EUA",
       "distribuicao_producao": "TriStar Pictures/Touchstone Pictures",
       "ano_de_lancamento": 1997,
-      "duracao_do_filme": "2h 9m"
+      "duracao_do_filme": "2h 9m",
+      "sinopse": "A Terra está em guerra contra uma raça de insetos gigantes alienígenas com a intenção de eliminar toda forma de vida humana. Agora para garantir a sobrevivência de sua espécie, eles investigam o misterio que envolve esses incetos."
     },
     {
       "id": 8,
@@ -95,7 +101,8 @@
       "pais": "EUA",
       "distribuicao_producao": "Dimension Films/Nordisk Film",
       "ano_de_lancamento": 1998,
-      "duracao_do_filme": "2h 30m"
+      "duracao_do_filme": "2h 30m",
+      "sinopse": "Um grupo de agentes do FBI é levado para uma ilha deserta para fazer um treinamento que simula a caça de um assassino em série. Mas a simulação acaba virando realidade e os agentes precisam lutar para sobreviver."
     },
     {
       "id": 9,
@@ -107,11 +114,13 @@
       "pais": "EUA",
       "distribuicao_producao": "TriStar Pictures/Toho Co.Ltd.",
       "ano_de_lancamento": 1998,
-      "duracao_do_filme": "2h 19m"
+      "duracao_do_filme": "2h 19m",
+      "sinopse": "Um réptil gigante surge em direção a Nova York e provoca destruição por onde passa. Um cientista e aliados entram em ação para investigar o misterio envolvendo esse animal gigantesco".
     },
     {
       "id": 10,
       "fil_nome": "fil 10",
+      "imagem": "imagens/Cards-filme/identidade.png",
       "nome": "Identidade",
       "genero": "Thriller/Mistério",
       "direcao": "James Mangold",
@@ -119,75 +128,88 @@
       "distribuicao_producao": "Columbia Pictures",
       "ano_de_lancamento": 2003,
       "duracao_do_filme": "1h 31m"
+      "sinopse": "Uma terrível tempestade atinge o deserto e dez pessoas procuram refúgio em um motel isolado. Quando os viajantes ficam presos lá por causa da tempestade, percebem que estão sendo mortos um a um, quem é o assasino?"
     },
     {
       "id": 11,
       "fil_nome": "fil 11",
+      "imagem": "imagens/Cards-filme/titanic.png",
       "nome": "Titanic: 110th Anniversary",
       "genero": "Romance/Drama",
       "direcao": "James Cameron",
       "pais": "EUA",
       "distribuicao_producao": "Paramount Pictures/20th Century Fox",
       "ano_de_lancamento": 1997,
-      "duracao_do_filme": "3h 14m"
+      "duracao_do_filme": "3h 14m",
+      "sinopse" : "Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor."
     },
     {
       "id": 12,
       "fil_nome": "fil 12",
+      "imagem": "imagens/Cards-filme/lilo-lilo-crocodilo.png",
       "nome": "Lilo, Lilo, Crocodilo",
       "genero": "Musical/Comédia",
       "direcao": "Will Speck/Josh Gordon",
       "pais": "EUA",
       "distribuicao_producao": "Sony Pictures/Columbia Pictures",
       "ano_de_lancamento": 2022,
-      "duracao_do_filme": "1h 46m"
+      "duracao_do_filme": "1h 46m",
+      "sinopse": "A família Primm se muda para Nova York e seu filho Josh luta para se adaptar à nova escola e aos novos amigos. Tudo muda quando ele descobre Lilo, um crocodilo cantor que adora tomar banho, caviar e boa música."
     }
   ],
   "produtos": [
     {
       "id": 1,
+      "imagem": "imagens/cards-food/pepsi-garrafa-1l.png",
       "Pro_nome": "Pepsi",
       "valor": "11,00 reias",
       "ml": "1L"
     },
     {
       "id": 2,
+      "imagem": "imagens/cards-food/Pepsi-Garrafa-600ml.png",
       "Pro_nome": "Pepsi",
       "valor": "6,00 reias",
-      "ml": "500ml"
+      "ml": "600ml"
     },
     {
       "id": 3,
+      "imagem": "imagens/cards-food/cocacola-garrafa-1l.png",
       "Pro_nome": "Coca-cola",
       "valor": "11,00 reias",
       "ml": "1L"
     },
     {
       "id": 4,
+      "imagem": "imagens/cards-food/cocacola-garrafa-600ml.png",
       "Pro_nome": "Coca-cola",
       "valor": "6,00 reias",
-      "ml": "500ml"
+      "ml": "600ml"
     },
     {
       "id": 5,
+      "imagem": "imagens/cards-food/pipoca.png",
       "Pro_nome": "Pipoca pequena",
       "valor": "8 Reias",
       "quantidade": "1,5L"
     },
     {
       "id": 6,
+      "imagem": "imagens/cards-food/pipoca.png",
       "Pro_nome": "Pipoca média",
       "valor": "11,99 Reias",
       "quantidade": "2,1L"
     },
     {
       "id": 7,
+      "imagem": "imagens/cards-food/pipoca.png",
       "Pro_nome": "Pipoca grande",
       "valor": "16,99 Reias",
       "quantidade": "3L"
     },
     {
       "id": 8,
+      "imagem": "imagens/cards-food/promoção.png",
       "Pro_nome": "promocao",
       "combo": "Bebida,Pipoca,Brinde",
       "valor": "55,00 Reias",
@@ -195,6 +217,7 @@
     },
     {
       "id": 9,
+      "imagem": "imagens/cards-food/mega-combo.png",
       "Pro_nome": "Mega-Combo",
       "combo": "Action-Figure,Bebida-Pipoca,Ingresso,Camisa,Brinde",
       "valor": "320,00 Reias",
@@ -204,6 +227,7 @@
   "cultureshop": [
     {
       "id": 1,
+      "imagem": "imagens/cards-food/pantera-negra.png",
       "culture_nome": "produtos feitos de fã para fã",
       "combos": "Combo Camiseta Pré - Estreia Pantera Negra: Wakanda Para Sempre + 5 Cards Vingadores",
       "brinde_do_combo": "Caneca do Pantera Negra: Wakanda Para Sempre",
@@ -212,6 +236,7 @@
     },
     {
       "id": 2,
+      "imagem": "imagens/cards-food/casaco.png",
       "culture_nome": "produtos feitos de fã para fã",
       "casaco": "casaco do Jurassic Park",
       "promocao": "2 camisa do Jurassic Park por 80% do preço",
@@ -221,6 +246,7 @@
     },
     {
       "id": 3,
+      "imagem": "imagens/cards-food/godzilla.png",
       "culture_nome": "produtos feitos de fã para fã",
       "camisa": "camisa do Godzilla",
       "promocao": "2 camisa do Godzilla por 60% do preço",
@@ -230,6 +256,7 @@
     },
     {
       "id": 4,
+      "imagem": "imagens/cards-food/caneca-avatar.png",
       "culture_nome": "produtos feitos de fã para fã",
       "camisa": "camisa do Avatar: O Caminho da Água",
       "promocao": "2 camisa do Avatar: O Caminho da Água por 70% do preço",
@@ -239,6 +266,7 @@
     },
     {
       "id": 5,
+      "imagem": "imagens/cards-food/camisa.png",
       "culture_nome": "produtos feitos de fã para fã",
       "combos": "camisa do Tropas Estelares + poster do proprio filme",
       "brinde_do_combo": "caneca do Tropas Estelares",
@@ -247,6 +275,7 @@
     },
     {
       "id": 6,
+      "imagem": "imagens/cards-food/avatar-casaco.png",
       "culture_nome": "produtos feitos de fã para fã",
       "combos": "Casaco do Avatar: O Caminho da Água + Quadro emoldurado do proprio filme",
       "brinde_do_combo": "caneca do Avatar: O Caminho da Água + Balde de pipoca tema do filme",
@@ -256,9 +285,10 @@
     },
     {
       "id": 7,
+      "imagem": "imagens/cards-food/quadro.png",
       "culture_nome": "produtos feitos de fã para fã",
-      "combos": "Casaco do Lilo, Lilo, Crocodilo + Quadro emoldurado do proprio filme",
-      "brinde_do_combo": "caneca do Lilo, Lilo, Crocodilo + Balde de pipoca tema do filme",
+      "combos": "Casaco do Titanic + Quadro emoldurado do proprio filme",
+      "brinde_do_combo": "caneca do Titanic + Balde de pipoca tema do filme",
       "ingresso": "incluso no combo",
       "cartao": "parcelamento em até 6x",
       "valor_unico": "179,90 reias"
