@@ -107,7 +107,7 @@
     {
       "id": 9,
       "fil_nome": "fil 9",
-      "imagem": "imagens/Cards-filme/caçadores-de-mentes.png",
+      "imagem": "imagens/Cards-filme/godzilla.png",
       "nome": "Godzilla",
       "genero": "Ficção científica/Ação",
       "direcao": "Roland Emmerich",
@@ -297,6 +297,7 @@
   "cinemas": [
     {
       "id": 1,
+      "imagem": "imagens/cards-cinema/park_shopping_campo_grande.png",
       "cine_nome": "Park Shopping",
       "localizacao": "Estr. do Monteiro, 1200 - Campo Grande, Rio de Janeiro - RJ",
       "horario_dos_filmes": "a partir das 13h",
@@ -306,6 +307,7 @@
     },
     {
       "id": 2,
+      "imagem": "imagens/cards-cinema/itau-cinema.png",
       "cine_nome": "Espaço Itaú de Cinema - Pompeia",
       "localizacao": "Rua Palestra Itália, 500 - Água Branca",
       "horario_dos_filmes": "a partir das 13:30h",
@@ -315,6 +317,7 @@
     },
     {
       "id": 3,
+      "imagem": "imagens/cards-cinema/cine_marquis_cinema.png",
       "cine_nome": "Cine Marquise",
       "localizacao": "Avenida Paulista, 2073 - Bela Vista",
       "horario_dos_filmes": "a partir das 13h",
@@ -324,8 +327,9 @@
     },
     {
       "id": 4,
-      "cine_nome": "Cinema Reserva Cultural Sao Paulo",
-      "localizacao": "Av. Paulista, 900 - Bela Vista",
+      "imagem": "imagens/cards-cinema/shopping-iguatemi-cinemark.png",
+      "cine_nome": "Shopping Iguatemi",
+      "localizacao": "Av. Brg. Faria Lima, 2232 - Jardim Paulistano, São Paulo",
       "horario_dos_filmes": "a partir das 13h",
       "assentos": "48 comuns, 48 vips, 48 preferencias",
       "valor_do_ingresso": "Meia 24,00 reais, Inteira 48,00 reais",
@@ -333,6 +337,7 @@
     },
     {
       "id": 5,
+      "imagem": "imagens/cards-cinema/kinoplex_shopping_leblon.png",
       "cine_nome": "Shopping Leblon",
       "localizacao": "Av. Afrânio de Melo Franco, 290 - Leblon, Rio de Janeiro",
       "horario_dos_filmes": "a partir das 13h",
@@ -342,6 +347,7 @@
     },
     {
       "id": 6,
+      "imagem": "imagens/cards-cinema/cinemark_botafogo_shopping.png",
       "cine_nome": "Botafogo Praia Shopping",
       "localizacao": "Praia de Botafogo, 400 - Botafogo, Rio de Janeiro - RJ",
       "horario_dos_filmes": "a partir de 12h",
@@ -351,6 +357,7 @@
     },
     {
       "id": 7,
+      "imagem": "imagens/cards-cinema/kinoplex-west-shopping.png",
       "cine_nome": "West Shopping",
       "localizacao": "Estr. do Mendanha, 555 - Campo Grande, Rio de Janeiro - RJ",
       "horario_dos_filmes": "a partir de 14h",
@@ -360,6 +367,7 @@
     },
     {
       "id": 8,
+      "imagem": "imagens/cards-cinema/multicine_shopping_cidade_jardim.png",
       "cine_nome": "Shopping Cidade Jardim",
       "localizacao": "Av. Magalhães de Castro, 12.000 - Cidade Jardim, São Paulo - SP",
       "horario_dos_filmes": "a partir de 13h",
