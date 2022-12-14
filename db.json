@@ -3,7 +3,7 @@
     {
       "id": 1,
       "fil_nome": "fil 1",
-      "imagem": "imagens/Cards-filme/jurassic-park.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/jurassic-park.png",
       "nome": "Jurassic Park - Parque dos Dinossauros",
       "genero": "Ficção científica/Ação",
       "direcao": "Steven Spielberg",
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "fil_nome": "fil 2",
-      "imagem": "imagens/Cards-filme/avatar-2.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/avatar-2.png",
       "nome": "Avatar: O Caminho da Água",
       "genero": "Ficção científica/Ação",
       "direcao": "James Cameron",
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "fil_nome": "fil 3",
-      "imagem": "imagens/Cards-filme/pantera_negra_wakanda_forever.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/pantera_negra_wakanda_forever.png",
       "nome": "Pantera Negra: Wakanda Para Sempre",
       "genero": "Ação/Aventura",
       "direcao": "Ryan Coogler",
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "fil_nome": "fil 4",
-      "imagem": "imagens/Cards-filme/força-aérea-um.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/for%C3%A7a-a%C3%A9rea-um.png",
       "nome": "Força Aérea Um",
       "genero": "Ação/Thriller",
       "direcao": "Wolfgang Petersen",
@@ -55,7 +55,7 @@
     {
       "id": 5,
       "fil_nome": "fil 5",
-      "imagem": "imagens/Cards-filme/inferno-de-dante.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/inferno-de-dante.png",
       "nome": "O Inferno de Dante",
       "genero": "Thriller/Ação",
       "direcao": "Roger Donaldson",
@@ -68,7 +68,7 @@
     {
       "id": 6,
       "fil_nome": "fil 6",
-      "imagem": "imagens/Cards-filme/event-horizon.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/event-horizon.png",
       "nome": "O Enigma do Horizonte",
       "genero": "Terror/Ficção científica",
       "direcao": "Paul W. S. Anderson",
@@ -81,7 +81,7 @@
     {
       "id": 7,
       "fil_nome": "fil 7",
-      "imagem": "imagens/Cards-filme/tropas-estelares.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/tropas-estelares.png",
       "nome": "Tropas Estelares",
       "genero": "Ficção científica/Ação",
       "direcao": "Paul Verhoeven",
@@ -94,7 +94,7 @@
     {
       "id": 8,
       "fil_nome": "fil 8",
-      "imagem": "imagens/Cards-filme/caçadores-de-mentes.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/ca%C3%A7adores-de-mentes.png",
       "nome": "Caçadores de Mentes",
       "genero": "Thriller/Crime",
       "direcao": "Renny Harlin",
@@ -107,7 +107,7 @@
     {
       "id": 9,
       "fil_nome": "fil 9",
-      "imagem": "imagens/Cards-filme/godzilla.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/godzilla.png",
       "nome": "Godzilla",
       "genero": "Ficção científica/Ação",
       "direcao": "Roland Emmerich",
@@ -120,7 +120,7 @@
     {
       "id": 10,
       "fil_nome": "fil 10",
-      "imagem": "imagens/Cards-filme/identidade.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/identidade.png",
       "nome": "Identidade",
       "genero": "Thriller/Mistério",
       "direcao": "James Mangold",
@@ -133,7 +133,7 @@
     {
       "id": 11,
       "fil_nome": "fil 11",
-      "imagem": "imagens/Cards-filme/titanic.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/titanic.png",
       "nome": "Titanic: 110th Anniversary",
       "genero": "Romance/Drama",
       "direcao": "James Cameron",
@@ -146,7 +146,7 @@
     {
       "id": 12,
       "fil_nome": "fil 12",
-      "imagem": "imagens/Cards-filme/lilo-lilo-crocodilo.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-filme/lilo-lilo-crocodilo.png",
       "nome": "Lilo, Lilo, Crocodilo",
       "genero": "Musical/Comédia",
       "direcao": "Will Speck/Josh Gordon",
@@ -160,56 +160,56 @@
   "produtos": [
     {
       "id": 1,
-      "imagem": "imagens/cards-food/pepsi-garrafa-1l.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-food/pepsi-garrafa-1l.png",
       "Pro_nome": "Pepsi",
       "valor": "11,00 reias",
       "ml": "1L"
     },
     {
       "id": 2,
-      "imagem": "imagens/cards-food/Pepsi-Garrafa-600ml.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-food/Pepsi-Garrafa-600ml.png",
       "Pro_nome": "Pepsi",
       "valor": "6,00 reias",
       "ml": "600ml"
     },
     {
       "id": 3,
-      "imagem": "imagens/cards-food/cocacola-garrafa-1l.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-food/cocacola-garrafa-1l.png",
       "Pro_nome": "Coca-cola",
       "valor": "11,00 reias",
       "ml": "1L"
     },
     {
       "id": 4,
-      "imagem": "imagens/cards-food/cocacola-garrafa-600ml.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-food/cocacola-garrafa-600ml.png",
       "Pro_nome": "Coca-cola",
       "valor": "6,00 reias",
       "ml": "600ml"
     },
     {
       "id": 5,
-      "imagem": "imagens/cards-food/pipoca.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-food/pipoca.png",
       "Pro_nome": "Pipoca pequena",
       "valor": "8 Reias",
       "quantidade": "1,5L"
     },
     {
       "id": 6,
-      "imagem": "imagens/cards-food/pipoca.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-food/pipoca.png",
       "Pro_nome": "Pipoca média",
       "valor": "11,99 Reias",
       "quantidade": "2,1L"
     },
     {
       "id": 7,
-      "imagem": "imagens/cards-food/pipoca.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-food/pipoca.png",
       "Pro_nome": "Pipoca grande",
       "valor": "16,99 Reias",
       "quantidade": "3L"
     },
     {
       "id": 8,
-      "imagem": "imagens/cards-food/promoção.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-food/promo%C3%A7%C3%A3o.png",
       "Pro_nome": "promocao",
       "combo": "Bebida,Pipoca,Brinde",
       "valor": "55,00 Reias",
@@ -217,7 +217,7 @@
     },
     {
       "id": 9,
-      "imagem": "imagens/cards-food/mega-combo.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-food/mega-combo.png",
       "Pro_nome": "Mega-Combo",
       "combo": "Action-Figure,Bebida-Pipoca,Ingresso,Camisa,Brinde",
       "valor": "320,00 Reias",
@@ -227,7 +227,7 @@
   "cultureshop": [
     {
       "id": 1,
-      "imagem": "imagens/cards-food/pantera-negra.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-produtos/pantera-negra.png",
       "culture_nome": "produtos feitos de fã para fã",
       "combos": "Combo Camiseta Pré - Estreia Pantera Negra: Wakanda Para Sempre + 5 Cards Vingadores",
       "brinde_do_combo": "Caneca do Pantera Negra: Wakanda Para Sempre",
@@ -236,7 +236,7 @@
     },
     {
       "id": 2,
-      "imagem": "imagens/cards-food/casaco.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-produtos/casaco.png",
       "culture_nome": "produtos feitos de fã para fã",
       "casaco": "casaco do Jurassic Park",
       "promocao": "2 camisa do Jurassic Park por 80% do preço",
@@ -246,7 +246,7 @@
     },
     {
       "id": 3,
-      "imagem": "imagens/cards-food/godzilla.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-produtos/godzilla.png",
       "culture_nome": "produtos feitos de fã para fã",
       "camisa": "camisa do Godzilla",
       "promocao": "2 camisa do Godzilla por 60% do preço",
@@ -256,7 +256,7 @@
     },
     {
       "id": 4,
-      "imagem": "imagens/cards-food/caneca-avatar.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-produtos/caneca-avatar.png",
       "culture_nome": "produtos feitos de fã para fã",
       "camisa": "camisa do Avatar: O Caminho da Água",
       "promocao": "2 camisa do Avatar: O Caminho da Água por 70% do preço",
@@ -266,7 +266,7 @@
     },
     {
       "id": 5,
-      "imagem": "imagens/cards-food/camisa.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-produtos/camisa.png",
       "culture_nome": "produtos feitos de fã para fã",
       "combos": "camisa do Tropas Estelares + poster do proprio filme",
       "brinde_do_combo": "caneca do Tropas Estelares",
@@ -275,7 +275,7 @@
     },
     {
       "id": 6,
-      "imagem": "imagens/cards-food/avatar-casaco.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-produtos/camisa.png",
       "culture_nome": "produtos feitos de fã para fã",
       "combos": "Casaco do Avatar: O Caminho da Água + Quadro emoldurado do proprio filme",
       "brinde_do_combo": "caneca do Avatar: O Caminho da Água + Balde de pipoca tema do filme",
@@ -285,7 +285,7 @@
     },
     {
       "id": 7,
-      "imagem": "imagens/cards-food/quadro.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/cards-produtos/quadro.png",
       "culture_nome": "produtos feitos de fã para fã",
       "combos": "Casaco do Titanic + Quadro emoldurado do proprio filme",
       "brinde_do_combo": "caneca do Titanic + Balde de pipoca tema do filme",
@@ -307,7 +307,7 @@
     },
     {
       "id": 2,
-      "imagem": "imagens/cards-cinema/itau-cinema.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/card-cinema/itau-cinema.png",
       "cine_nome": "Espaço Itaú de Cinema - Pompeia",
       "localizacao": "Rua Palestra Itália, 500 - Água Branca",
       "horario_dos_filmes": "a partir das 13:30h",
@@ -317,7 +317,7 @@
     },
     {
       "id": 3,
-      "imagem": "imagens/cards-cinema/cine_marquis_cinema.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/card-cinema/cine_marquis_cinema.png",
       "cine_nome": "Cine Marquise",
       "localizacao": "Avenida Paulista, 2073 - Bela Vista",
       "horario_dos_filmes": "a partir das 13h",
@@ -327,7 +327,7 @@
     },
     {
       "id": 4,
-      "imagem": "imagens/cards-cinema/shopping-iguatemi-cinemark.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/card-cinema/shopping-iguatemi-cinemark.png",
       "cine_nome": "Shopping Iguatemi",
       "localizacao": "Av. Brg. Faria Lima, 2232 - Jardim Paulistano, São Paulo",
       "horario_dos_filmes": "a partir das 13h",
@@ -337,7 +337,7 @@
     },
     {
       "id": 5,
-      "imagem": "imagens/cards-cinema/kinoplex_shopping_leblon.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/card-cinema/kinoplex_shopping_leblon.png",
       "cine_nome": "Shopping Leblon",
       "localizacao": "Av. Afrânio de Melo Franco, 290 - Leblon, Rio de Janeiro",
       "horario_dos_filmes": "a partir das 13h",
@@ -347,7 +347,7 @@
     },
     {
       "id": 6,
-      "imagem": "imagens/cards-cinema/cinemark_botafogo_shopping.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/card-cinema/cinemark_botafogo_shopping.png",
       "cine_nome": "Botafogo Praia Shopping",
       "localizacao": "Praia de Botafogo, 400 - Botafogo, Rio de Janeiro - RJ",
       "horario_dos_filmes": "a partir de 12h",
@@ -357,7 +357,7 @@
     },
     {
       "id": 7,
-      "imagem": "imagens/cards-cinema/kinoplex-west-shopping.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/card-cinema/kinoplex-west-shopping.png",
       "cine_nome": "West Shopping",
       "localizacao": "Estr. do Mendanha, 555 - Campo Grande, Rio de Janeiro - RJ",
       "horario_dos_filmes": "a partir de 14h",
@@ -367,7 +367,7 @@
     },
     {
       "id": 8,
-      "imagem": "imagens/cards-cinema/multicine_shopping_cidade_jardim.png",
+      "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/card-cinema/multicine_shopping_cidade_jardim.png",
       "cine_nome": "Shopping Cidade Jardim",
       "localizacao": "Av. Magalhães de Castro, 12.000 - Cidade Jardim, São Paulo - SP",
       "horario_dos_filmes": "a partir de 13h",
