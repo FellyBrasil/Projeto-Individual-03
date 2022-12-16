@@ -369,7 +369,7 @@
       "id": 8,
       "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/card-cinema/multicine_shopping_cidade_jardim.png",
       "cine_nome": "Shopping Cidade Jardim",
-      "localizacao": "Av. Magalhães de Castro, 12.000 - Cidade Jardim, São Paulo - SP",
+      "localizacao": "Av. Magalhães de Castro, 12.000 - Cidade Jardim - SP",
       "horario_dos_filmes": "a partir de 13h",
       "assentos": "58 comuns, 25 vips, 28 preferencias",
       "valor_do_ingresso": "Meia 18,95 reais, Inteira 37,90 reais",
