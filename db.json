@@ -349,7 +349,7 @@
       "id": 6,
       "imagem": "https://raw.githubusercontent.com/FellyBrasil/Projeto-Individual-03/main/imagens/card-cinema/cinemark_botafogo_shopping.png",
       "cine_nome": "Botafogo Praia Shopping",
-      "localizacao": "Av. Praia de Botafogo, 400 - Botafogo, Rio de Janeiro - RJ",
+      "localizacao": "Av. Praia de Botafogo, 400 - Botafogo, Rio de Janeiro",
       "horario_dos_filmes": "a partir de 12h",
       "assentos": "58 comuns, 48 vips, 48 preferencias",
       "valor_do_ingresso": "Meia 14,40 reais, Inteira 29,80 reais",
